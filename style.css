@@ -4,6 +4,9 @@ p.song {
 p {
   text-align: center;
 }
+p.song2 {
+  text-align: left;
+}
 img:last-of-type {
   border: 1px solid red;
   width: 2000px;
