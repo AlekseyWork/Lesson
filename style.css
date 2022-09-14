@@ -1,0 +1,11 @@
+p.song {
+  text-align: right !important;
+}
+p {
+  text-align: center;
+}
+img:last-of-type {
+  border: 1px solid red;
+  width: 2000px;
+  height: 3000px;
+}
