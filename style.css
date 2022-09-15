@@ -6,9 +6,4 @@ p {
 }
 p.song2 {
   text-align: left;
-}
-img:last-of-type {
-  border: 1px solid red;
-  width: 2000px;
-  height: 3000px;
-}
+
